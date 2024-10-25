@@ -7,10 +7,10 @@
     <template #trigger>
       <span
         style="cursor: pointer;color: #2080f0;"
-        title="选择下载区域"
+        title="选择下载区域1111"
         @click="handleIconClick"
       >
-        {{ chooseArea || '选择下载区域' }}
+        {{ chooseArea || '选择下载区域111' }}
       </span>
     </template>
     <n-tree
